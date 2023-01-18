@@ -1,0 +1,15 @@
+{
+    "/js/filemanager.js": "/js/filemanager.js",
+    "/css/filemanager.css": "/css/filemanager.css",
+    "/css/style.css": "/css/style.css",
+    "/assets/libs/jquery/jquery.min.js": "/assets/libs/jquery/jquery.min.js",
+    "/assets/libs/bootstrap/bootstrap.min.js": "/assets/libs/bootstrap/bootstrap.min.js",
+    "/assets/libs/bootstrap/bootstrap.min.css": "/assets/libs/bootstrap/bootstrap.min.css",
+    "/assets/images/filemanager/document.png": "/assets/images/filemanager/document.png",
+    "/assets/images/filemanager/excel.png": "/assets/images/filemanager/excel.png",
+    "/assets/images/filemanager/file-not-found.png": "/assets/images/filemanager/file-not-found.png",
+    "/assets/images/filemanager/no-image-found.png": "/assets/images/filemanager/no-image-found.png",
+    "/assets/images/filemanager/pdf.png": "/assets/images/filemanager/pdf.png",
+    "/assets/images/filemanager/video.png": "/assets/images/filemanager/video.png",
+    "/assets/images/filemanager/word.png": "/assets/images/filemanager/word.png"
+}
